@@ -7,6 +7,7 @@ I'm Manu Choudhary, a web developer specialized in front-end. Love to play along
 - ❤️ Checkout my codepen here [Codepen](https://codepen.io/ManuChoudhary)<br>
 - 📫 How to reach me: <br>
       Get me on twitter [Twitter](https://twitter.com/_manuchoudhary_)<br>
+      Linkdin [Manu Choudhary](https://www.linkedin.com/in/manu-choudhary/)<br>
 - ⚡ Fun fact: <br>
       Contributer to [Unsplash](https://unsplash.com/@manuchoudhary). <br>
       A terrible chess player. But I'm learning 😋
