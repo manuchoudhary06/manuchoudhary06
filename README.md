@@ -1,5 +1,5 @@
 
-I'm <h1>Manu Choudhary</h1>, a web developer specialized in front-end. Love to play along with JavaScript,and UI.<br> 
+I'm <h1>Manu Choudhary</h1> a web developer specialized in front-end. Love to play along with JavaScript,and UI.<br> 
 
 Welcome to my React Wonderland! 🚀
 
@@ -22,7 +22,7 @@ Welcome to my React Wonderland! 🚀
 
 ## Lets Connect
 
-- 📧 manuchoudhary1706@gmail.com
+- manuchoudhary1706@gmail.com
 - [](https://icons8.com/icon/13930/linkedin) [Manu Choudhary](https://www.linkedin.com/in/manu-choudhary/)
       
       
